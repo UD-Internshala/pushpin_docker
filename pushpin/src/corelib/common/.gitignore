@@ -1,0 +1,11 @@
+*.swp
+*~
+qrc_*
+*.moc
+*.o
+*.pdb
+ui_*
+moc_*
+tests/Makefile
+tests/*/Makefile
+tests/*test/*test

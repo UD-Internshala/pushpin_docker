@@ -1,0 +1,3 @@
+*,debug origin:80
+*,path_beg=/jsonp,aco,debug origin:80
+*,path_beg=/jsonp-basic,aco,jsonp_mode=basic,jsonp_body=bparam,jsonp_defcb=jpcb,debug origin:80
